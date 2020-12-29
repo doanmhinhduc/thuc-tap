@@ -1,0 +1,56 @@
+.content{
+    width: 1200px;
+    height: 400px;
+    background-color: #0c4454;
+    color: #FFFFFF;
+    margin: auto;
+}
+.row{
+    margin-top: 20px;
+    font-size: 28px;
+
+}
+.hinh1{
+    background-color: #00b3ee;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.hinh2{
+    background-color: #e25c1e;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.hinh3{
+    background-color: #2c88d7;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.hinh4{
+    background-color: #a2e1f5;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.banner li{
+    float: left;
+    margin-left: 10px;
+    list-style: none;
+}
+
+
+
+
+.fab{
+    margin-top: 20px;
+}
+.gach-duoi{
+    margin-top: 80px;
+    border-bottom: 1px solid white;
+}
+.footer{
+    text-align: center;
+    margin-top: 50px;
+}

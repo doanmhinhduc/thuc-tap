@@ -1,0 +1,15 @@
+
+
+
+
+.row{
+    padding-top: 20px;
+}
+.dau{
+    border-bottom: 5px solid #d69e18;
+    height: 2px;
+    width: 80px;
+}
+.text{
+    float: right;
+}

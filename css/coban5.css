@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    width: 1000px;
+}
+.content{
+
+    background-color: #aff8ea;
+    font-size: 30px;
+    padding: 250px 30px 250px 30px;
+}
+.text{
+    font-size: 25px;
+}
+.mau{
+    background-color: #a9eee0;
+}
+.banner{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.lead{
+    margin-top: 330px;
+}

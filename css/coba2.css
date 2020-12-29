@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 600px;
+
+}
+.row{
+    background: radial-gradient(circle farthest-corner at center center, #ff2efc 27%, #26c49d 100%);
+    background: -moz-radial-gradient(circle farthest-corner at center center, #ff2efc 27%, #26c49d 100%);
+    background: -o-radial-gradient(circle farthest-corner at center center, #ff2efc 27%, #26c49d 100%);
+    background: -ms-radial-gradient(circle farthest-corner at center center, #ff2efc 27%, #26c49d 100%);
+    background: -webkit-radial-gradient(center center, circle farthest-corner, #ff2efc 27%, #26c49d 100%);
+}
+h3{
+    color: #b0abab;
+}

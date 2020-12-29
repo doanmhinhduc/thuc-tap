@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #e7e9e9;
+    text-align: center;
+    padding-top: 20px;
+}
+p{
+    padding-top: 10px;
+}
+img{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+}
+.text{
+    margin: 10px;
+}
+.anh1{
+    background-color: whitesmoke;
+}

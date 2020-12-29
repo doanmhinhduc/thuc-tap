@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    background: radial-gradient(circle farthest-corner at center center, #d0b06f 27%, #c8d9c4 100%);
+    background: -moz-radial-gradient(circle farthest-corner at center center, #d0b06f 27%, #c8d9c4 100%);
+    background: -o-radial-gradient(circle farthest-corner at center center, #d0b06f 27%, #c8d9c4 100%);
+    background: -ms-radial-gradient(circle farthest-corner at center center, #d0b06f 27%, #c8d9c4 100%);
+}
+a{
+    text-decoration: none;
+    color: #070707;
+}
+.row ul li{
+    display: inline-block;
+    padding: 30px 20px;
+}
+.content{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 400px;
+    margin-bottom: 30px;
+}
+a{
+    color: black;
+}
+
