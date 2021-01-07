@@ -454,7 +454,7 @@ nav.navbar-light .navbar-nav .nav-link {
     transition: .3s;
 
 }
-@media (max-width: 361px ) {
+@media (max-width: 400px ) {
     .img-background {
         display: none;
     }
